@@ -1,5 +1,8 @@
 ## Final Assignment - Wireworld Simulation
 **Score Achieved: 100 %**
+
+
+
 This repository contains the final project for my Unix and C Programming course - a visualization of the Wireworld cellular automaton simulation, implemented in C.
 
 ### Project Overview:
